@@ -113,7 +113,6 @@
          </div>
          <div class="card" style="background-color: palevioletred;">
           <h3>INSTAGRAM</h3><img src="instagram.jpg" width="45px"><a href="https://www.instagram.com/tsb.la/">tsb.la</a><br>
-           <h3>YOUTUBE</h3><img src="youtube.png" width="45px"><a href="https://www.youtube.com/c/SuriantoDjumiran">Mutiara Organik</a><br>
            <h3>TIKTOK</h3><img src="tiktok.png" width="45px"><a href="https://www.tiktok.com/@annyyeongg_">annyyeongg</a><br>
       </div>
 </div>   
@@ -125,7 +124,7 @@
    <div class="row">
       <div class="centercolumn">
          <div class="card" style="background-color: palevioletred;">
-            <h2 align="center" style="font-family: serif;">TUGAS AKHIR PWEB!!!</h2><br><br>
+            <h2 align="center" style="font-family: verdana;">TUGAS AKHIR PWEB!!!</h2><br><br>
 
             <div style="background-color: palevioletred;">
                <img src="hi.jpg" width="550px" height="350px">
