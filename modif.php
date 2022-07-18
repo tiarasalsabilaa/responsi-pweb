@@ -108,7 +108,7 @@
 
    <div class="rightcolumn">
          <div class="card" style="background-color: palevioletred;">
-            <h2 style="font-family: verdana">Tentang akuu!!!</h2>
+            <h2 style="font-family: verdana">~Tentang akuu~</h2>
             <p style="font-family: cursive">Halo Perkenalkan Nama ku Tiara salsabila Aku berasal dari sulawesi tengah aku lahir di kabupaten tolitoli 17-11-2002, aku berkuliah di universitas ahmad dahlan dan aku mengambil jurusan informatika</p>
          </div>
          <div class="card" style="background-color: palevioletred;">
@@ -124,7 +124,7 @@
    <div class="row">
       <div class="centercolumn">
          <div class="card" style="background-color: palevioletred;">
-            <h2 align="center" style="font-family: verdana;">TUGAS AKHIR PWEB!!!</h2><br><br>
+            <h2 align="center" style="font-family: verdana;">TUGAS AKHIR PWEB</h2><br><br>
 
             <div style="background-color: palevioletred;">
                <img src="hi.jpg" width="550px" height="350px">
