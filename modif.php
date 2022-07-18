@@ -112,9 +112,9 @@
             <p style="font-family: cursive">Halo Perkenalkan Nama ku Tiara salsabila Aku berasal dari sulawesi tengah aku lahir di kabupaten tolitoli 17-11-2002, aku berkuliah di universitas ahmad dahlan dan aku mengambil jurusan informatika</p>
          </div>
          <div class="card" style="background-color: palevioletred;">
-          <h3>Follow yaa hehe!!</h3><img src="instagram.jpg" width="45px"><a href="https://www.instagram.com/tsb.la/">tsb.la</a><br>
-           <h3>Jangan Lupa di Subscribe!!</h3><img src="youtube.png" width="45px"><a href="https://www.youtube.com/c/SuriantoDjumiran">Mutiara Organik</a><br>
-           <h3>follow!!</h3><img src="tiktok.png" width="45px"><a href="https://www.tiktok.com/@annyyeongg_">annyyeongg</a><br>
+          <h3>INSTAGRAM</h3><img src="instagram.jpg" width="45px"><a href="https://www.instagram.com/tsb.la/">tsb.la</a><br>
+           <h3>YOUTUBE</h3><img src="youtube.png" width="45px"><a href="https://www.youtube.com/c/SuriantoDjumiran">Mutiara Organik</a><br>
+           <h3>TIKTOK</h3><img src="tiktok.png" width="45px"><a href="https://www.tiktok.com/@annyyeongg_">annyyeongg</a><br>
       </div>
 </div>   
      <div class="footer" style="background-color: palevioletred;"><p></p>
