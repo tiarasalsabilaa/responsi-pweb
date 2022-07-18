@@ -281,7 +281,7 @@
       </div>
       <div class="rightcolumn">
          <div class="card" style="background-color: palevioletred;">
-            <h2 style="font-family: verdana">QUOTESSS!!!</h2>
+            <h2 style="font-family: verdana">QUOTESSS~</h2>
            <p style="font-family: cursive"> Perjuangan merupakan tanda perjalananmu menuju kesuksesan</p>
          </div>
       </div>
